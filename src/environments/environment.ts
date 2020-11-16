@@ -4,7 +4,7 @@
 
 export const environment = {
   production: true,
-  BASE_API_URL : "https://web-searcher-bk.herokuapp.com"
+  BASE_API_URL : "https://web-searcher-bk.herokuapp.com",
 };
 
 /*
