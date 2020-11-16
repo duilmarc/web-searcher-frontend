@@ -1,0 +1,13 @@
+.card {
+    
+    margin: 20px;
+  }
+
+.card:hover{
+    border: rgb(82, 45, 45) 3px solid;
+    margin: 20px;
+  }
+
+.a {
+    size: 100vw;
+}
