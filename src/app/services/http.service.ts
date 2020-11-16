@@ -7,7 +7,7 @@ import { environment } from "src/environments/environment"
   providedIn: 'root'
 })
 export class HttpService {
-  private baseUrl: string = environment.BASE_API_URL;
+  private baseUrl: string ="https://web-searcher-bk.herokuapp.com";
   constructor( private readonly _http: HttpClient ) { }
 
   // busqueda  de  paginas
